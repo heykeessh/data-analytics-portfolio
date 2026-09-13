@@ -36,6 +36,7 @@ This repository contains selected projects demonstrating my skills in:
 
 - MySQL
 - SQL
+- Datagrip
 - Microsoft Excel
 - Power BI
 - Google Sheets
