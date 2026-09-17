@@ -1,4 +1,7 @@
+# Module 1 - SQL Foundations
+	
 # Section A — SELECT & LIMIT (Warm-Up)
+
 -- Show all columns from the actor table. How many actors are there?
 select count(*) as total_actors
 from actor;
