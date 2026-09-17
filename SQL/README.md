@@ -154,7 +154,8 @@ Increase average order value, encourage cross-category purchases, and gradually 
 
 | File                           | Description                                                   |
 | ------------------------------ | ------------------------------------------------------------- |
-| `olist_analysis.sql`           | SQL queries used for the analysis          |
+| `olist_dataset_source`         | Dataset source used for the analysis                          |
+| `olist_analysis.sql`           | SQL queries used for the analysis                             |
 | `README.md`                    | Project overview, findings, and recommendations               |
 
 ---
