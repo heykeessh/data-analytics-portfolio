@@ -1,4 +1,5 @@
-# Module 2
+# Module 2 - Data Retrieval & Filtering
+	
 -- List all films with title aliased as 'Movie Title' and rental_rate aliased as 'Daily Rate'. Limit to 20 rows.
 use sakila;
 
