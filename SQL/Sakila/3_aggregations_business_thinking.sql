@@ -1,4 +1,5 @@
-# Module 3
+# Module 3 - Aggregations & Business Thinking
+	
 -- Count the total number of customers in the database.
 use sakila;
 select count(*)
