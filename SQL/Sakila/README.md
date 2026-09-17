@@ -40,6 +40,14 @@ including:
 - DataGrip
 - GitHub
 
+## Files
+
+| File                           | Description                                                   |
+| ------------------------------ | ------------------------------------------------------------- |
+| `sakila-data.sql`              | Dataset source used for the analysis                          |
+| `.                 `           | SQL queries used for the analysis                             |
+| `README.md`                    | Project overview, findings, and recommendations               |
+
 ## Database
 
 Sakila Sample Database
