@@ -45,7 +45,10 @@ including:
 | File                           | Description                                                   |
 | ------------------------------ | ------------------------------------------------------------- |
 | `sakila-data.sql`              | Dataset source used for the analysis                          |
-| `.                 `           | SQL queries used for the analysis                             |
+| `1_sql_foundations.sql'        | Select, limit, where, order by, distinct queries              |
+| `2_data_retrieval_filtering.sql` | Select, aliases, computed columns, comparisons, in, between, null, text and date filtering queries |
+| `3_aggregations_business_thinking.sql` | aggregate functions, group by, having, case when queries |
+| `4_joins.sql`                  | inner, left, multi-table join, and joins with aggregation     |
 | `README.md`                    | Project overview, findings, and recommendations               |
 
 ## Database
