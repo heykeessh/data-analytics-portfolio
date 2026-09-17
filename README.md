@@ -28,7 +28,7 @@ This repository contains selected projects demonstrating my skills in:
 
 - Power BI Sales Dashboard
 
-### Excel
+### Python
 
 - Sales and Inventory Analysis
 
