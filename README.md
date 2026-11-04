@@ -30,7 +30,7 @@ This repository contains selected projects demonstrating my skills in:
 
 ### Python
 
-- Sales and Inventory Analysis
+- Retail E-commerce Dashboard and Analysis
 
 ## Tools
 
