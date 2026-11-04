@@ -4,7 +4,7 @@ An end-to-end e-commerce analytics capstone covering **January 2024 through Janu
 
 **Tools** · Python, pandas, Streamlit, Altair, Matplotlib, Jupyter
 
-## Executive summary
+## Executive Summary
 
 | Metric | Full reporting period |
 | --- | ---: |
