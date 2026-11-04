@@ -4,8 +4,6 @@ An end-to-end e-commerce analytics capstone covering **January 2024 through Janu
 
 **Tools** · Python, pandas, Streamlit, Altair, Matplotlib, Jupyter
 
-![Monthly merchandise revenue in PHP from January 2024 to January 2026](charts/01_monthly.jpg)
-
 ## Executive summary
 
 | Metric | Full reporting period |
@@ -41,8 +39,6 @@ Filter by **order month, product category, sales channel, and customer region**.
 | Order Operations | Monthly cancellation rate and order volume by status |
 
 ## Dashboard screenshots
-
-Each screenshot is **1920 × 1080** and shows one tab of the Streamlit dashboard.
 
 ### Sales Overview
 
