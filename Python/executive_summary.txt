@@ -1,0 +1,11 @@
+RETAIL SALES AND CUSTOMER INSIGHTS | JAN 2024–JAN 2026
+- Estimated merchandise revenue was ₱5.33M across 11,643 revenue-bearing orders, with an average order value of ₱457.38.
+- Revenue fell 1.7% from ₱2.59M in 2024 to ₱2.54M in 2025. April 2025 led all months at ₱236.3k.
+- Toys led categories at ₱741.5k (13.9% of revenue), followed by Electronics at ₱721.9k. KidJoy Toys 607 led catalog products at ₱29.0k.
+- Central Luzon led regions at ₱930.9k (17.5%). Olongapo led cities at ₱344.2k.
+- Web led channels at ₱1.80M. Mobile App and Marketplace each generated about ₱1.75M–₱1.78M.
+- Repeat orders generated ₱3.25M (61.0% of revenue) versus ₱2.06M from first observed orders. Unmatched customers accounted for the balance.
+- Median order value was ₱379.51, below the ₱457.38 mean. The 90th percentile was ₱903.12.
+- 1,235 of 15,000 orders were cancelled (8.2%). January 2025 had the highest order-month cancellation rate at 10.8%.
+- Recommendation 1 — Test a second-purchase offer on a first-order cohort. Track 60-day repeat purchase and incremental merchandise revenue against a holdout group.
+- Recommendation 2 — Reconcile missing checkout prices, discounts and unmatched IDs upstream. Audit the 1,701 sales lines valued at catalog prices and capture cancellation reasons by channel.
