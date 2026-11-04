@@ -24,10 +24,6 @@ This repository contains selected projects demonstrating my skills in:
 - Olist E-Commerce Analysis
 - Sakila Database Analysis
 
-### Business Intelligence
-
-- Power BI Sales Dashboard
-
 ### Python
 
 - Retail E-commerce Dashboard and Analysis
